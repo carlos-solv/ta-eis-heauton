@@ -1,5 +1,5 @@
 ---
-title: Notas para si mesmo
+title: Início
 date: 2026-10-26
 ---
 
