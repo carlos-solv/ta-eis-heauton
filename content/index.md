@@ -14,3 +14,5 @@ Esse site é uma forma de eu organizar esse conteúdo em texto e disponibilizar 
 ## Séries
 
 [[nao-coisas/index|Não-coisas — Diário de Leitura]] — Diários de leitura e discussões sobre temas encontrados nos livros da minha pilha de leitura.
+
+[[paixao-segundo-gh/index|A Paixão Segundo G.H. — Diário de Leitura]] — Diário de leitura sobre desrealização, crise de identidade e a procura por sentido no livro da Clarice Lispector.
